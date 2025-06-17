@@ -6,6 +6,9 @@ Tên dự án: PHÂN TÍCH VÀ XÂY DỰNG MÔ HÌNH DỰ ĐOÁN THỜI GIAN CHU
 Thành viên:
 
 Trần Đại Hiển _ 22520426
+
 Hồ Ngọc Mai _ 22520839
+
 Lê Ngọc Thiên Phúc _ 22521117
+
 Võ Hoàng Thảo Phương - 22521171
